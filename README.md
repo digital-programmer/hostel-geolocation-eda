@@ -5,7 +5,7 @@ This project involves the use of K-Means Clustering to find the best accommodati
 
 ### The project consists of the following stages:<br>
 
-<img src="./results/workflow.png" alt="workflow" width="700px" height="400px">
+<img src="./results/workflow.png" alt="workflow" width="600px" height="400px">
 
 ### Steps
 1. #### Fetch Datasets from the relevant locations (Data Collection)
