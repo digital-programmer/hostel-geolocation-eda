@@ -12,12 +12,11 @@ This project involves the use of K-Means Clustering to find the best accommodati
 
 2. #### Clean the Datasets to prepare them for analysis. (Data Cleaning via Pandas)
 
-3. #### Visualise the data using boxplots. (Using Matplotlib /Seaborn /Pandas) 
-   <br>
-   
+3. #### Visualise the data using boxplots. (Using Matplotlib /Seaborn /Pandas)<br>
    <img src="./results/boxplot.png" alt="boxplot" width="700px" height="400px"> <br>
    
    <img src="./results/elbow_curve.png" alt="elbow_curve" width="700px" height="400px">
+
 
 4. #### Fetch Geolocational Data from the Foursquare API. (REST APIs) 
 
@@ -25,9 +24,7 @@ This project involves the use of K-Means Clustering to find the best accommodati
 
    <img src="./results/bargraph.png" alt="bargraph" width="700px" height="400px">
 
-6. #### Present findings on a map. (Using Folium/Seaborn)
-   <br>
-   
+6. #### Present findings on a map. (Using Folium/Seaborn) <br>
    <img src="./results/map.png" alt="map" width="700px" height="400px">
    
 
